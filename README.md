@@ -65,4 +65,4 @@ This model is based on historical data and doesn't capture personal circumstance
 ```
 
 ---
-*Part of an ongoing ML project series documenting my Data Science internship journey — follow along on [LinkedIn].*
+*Part of an ongoing ML project series documenting my Data Science journey — follow along on [www.linkedin.com/in/mohammad-abdullah-alam].*
